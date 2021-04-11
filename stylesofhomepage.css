@@ -1,0 +1,22 @@
+body{margin:0 0 0 0;}
+hr {background-color: black;
+border-style: dotted;}
+h1 {
+  color: #8b0000;
+}
+h3 {
+  color: #8b0000;
+}
+
+img:hover{background-color: black;}
+
+.Img-Container{background-color: #ec4646;
+padding: 10px 10px 10px 10px;}
+.Intro{background-color: #ec4646;
+padding: 10px 10px 10px 10px;}
+.Powers{background-color: #ec4646;
+padding: 10px 10px 10px 10px;}
+.Supervillans{background-color: #ec4646;
+padding: 10px 10px 10px 10px;}
+.Moreinfo{background-color: #ec4646;
+padding: 10px 10px 10px 10px;}
